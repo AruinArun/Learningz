@@ -15,5 +15,12 @@ This alert should be triggered when:
 Purpose:
 
 This will help us to identify and respond quickly to potential phishing or malicious email activities.
-
+		
 Kindly let us know if any additional information is required from our side.
+
+
+
+
+
+
+https://github.com/PeterDaveHello/url-shorteners
